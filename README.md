@@ -22,7 +22,7 @@ A multi-tenant video upload, processing, and streaming backend application built
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/chirag1718/Pulse-backend.git
    cd pulse-backend
    ```
 
