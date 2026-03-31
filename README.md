@@ -37,7 +37,7 @@ A multi-tenant video upload, processing, and streaming backend application built
 
    ```env
    PORT=5000
-   MONGO_URI=mongodb://localhost:27017/pulse
+   MONGO_URI=your-mongodb-uri
    JWT_SECRET=your-super-secret-jwt-key
    CLIENT_URL=http://localhost:5173
    ```
